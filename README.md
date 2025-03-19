@@ -21,8 +21,9 @@ A fun arcade game where the player drives a car and collects coins while avoidin
 
 
 ### 🎥 Gameplay Demo:
-[![Watch Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/YOUR_VIDEO_ID)
+[Watch-Demo](https://drive.google.com/drive/folders/1V1N5kbfb-2JQrL1b5xXHecPIHh99vZdr?usp=sharing)
+
 
 ### 📂 Download & Play:
-🔹 [Game Build (Google Drive)](YOUR_GAME_BUILD_LINK)  
-🔹 [Unity Project Files](YOUR_UNITY_PROJECT_LINK)
+🔹 [Game Build (Google Drive)](https://drive.google.com/file/d/1D3YbPpJ0IGZKAG2aYfC08UFGr7ccZb53/view?usp=sharing)  
+🔹 [Script Files](https://drive.google.com/drive/folders/1Y_8SK7qjWMNmhIxEKtdgdLU6BBPRERYT?usp=sharing)
