@@ -45,3 +45,10 @@ Game over conditions if you collide with an enemy
 
 <img width="676" alt="heli-strike-1" src="https://github.com/user-attachments/assets/0bd96e6a-121c-4f85-a0f9-017cd47c94b5" />
 
+### 🎥 Gameplay Demo:
+[Watch-Demo](https://drive.google.com/drive/folders/1Y_8SK7qjWMNmhIxEKtdgdLU6BBPRERYT?usp=sharing)
+### 📂 Download & Play:
+🔹 [Game Build (Google Drive)](https://drive.google.com/drive/folders/1JAhHjJb8IsWnUBqD9EIGFfeplXOieBZE?usp=sharing)  
+🔹 [Script Files](https://drive.google.com/drive/folders/1FS6y3Yvx3gHbTSWb1JvlXrt_RvhAUPmi?usp=sharing)
+
+
