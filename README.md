@@ -27,3 +27,21 @@ A fun arcade game where the player drives a car and collects coins while avoidin
 ### 📂 Download & Play:
 🔹 [Game Build (Google Drive)](https://drive.google.com/file/d/1D3YbPpJ0IGZKAG2aYfC08UFGr7ccZb53/view?usp=sharing)  
 🔹 [Script Files](https://drive.google.com/drive/folders/1Y_8SK7qjWMNmhIxEKtdgdLU6BBPRERYT?usp=sharing)
+
+🚁 Heli Strike
+An action-packed helicopter shooter where you must destroy at least 10 enemies to win while avoiding collisions to prevent a game over.
+
+🛠 Features:
+Player-controlled helicopter with smooth movement
+Enemy helicopters that chase you dynamically
+Shooting mechanics to eliminate threats
+Score system to track enemy kills
+Game over conditions if you collide with an enemy
+
+### 📷 Screenshots:
+
+<img width="904" alt="heli-strike-2" src="https://github.com/user-attachments/assets/811a76da-5abe-487e-8f8d-2895f7e860e7" />
+
+
+<img width="676" alt="heli-strike-1" src="https://github.com/user-attachments/assets/0bd96e6a-121c-4f85-a0f9-017cd47c94b5" />
+
